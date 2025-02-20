@@ -1,4 +1,4 @@
-  =>  Template Name    : MEDINOVA - Hospital Website Template
+  =>  Template Name    : Summit - Hospital Website Template
 
   =>  Template Link    : https://htmlcodex.com/hospital-website-template
 
